@@ -79,6 +79,10 @@ debugger listening on port 5858
 
 Server running at http://127.0.0.1:3000/
 
+<img width="799" alt="Screenshot 2023-06-01 at 22 27 15" src="https://github.com/Mamiololo01/Reverse-proxy-using-Nginx/assets/67044030/5a19d37c-3138-422d-9a47-28ba0340dfcf">
+
+<img width="894" alt="Screenshot 2023-06-01 at 22 29 29" src="https://github.com/Mamiololo01/Reverse-proxy-using-Nginx/assets/67044030/7f6efa62-7865-41e6-bed5-b046ee3d5a82">
+
 You can also start the application with debugging enabled with the following commands.
 
 node --inspect server.js
