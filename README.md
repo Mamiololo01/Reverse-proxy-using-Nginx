@@ -104,6 +104,10 @@ Sudo apt update && sudo apt install nginx
 
 Sudo dnf install nginx.
 
+<img width="795" alt="Screenshot 2023-06-01 at 22 31 37" src="https://github.com/Mamiololo01/Reverse-proxy-using-Nginx/assets/67044030/08dedfa8-131e-4900-a53d-d6dab274a09e">
+
+<img width="786" alt="Screenshot 2023-06-01 at 22 32 28" src="https://github.com/Mamiololo01/Reverse-proxy-using-Nginx/assets/67044030/8758b075-7f72-4f17-bf43-72f257abb6e3">
+
 Step 2: Configure the Backend Application
 
 A backend application should be listening on some other port. For example, I have created a sample node.js application that serves incoming requests using the Node express module. This application is listening on localhost and port 3000
