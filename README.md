@@ -40,11 +40,16 @@ You have successfully configured Node.js PPA in your Ubuntu system. Now execute 
 
 sudo apt install -y nodejs
 
+<img width="783" alt="Screenshot 2023-06-01 at 22 24 51" src="https://github.com/Mamiololo01/Reverse-proxy-using-Nginx/assets/67044030/6f40f445-bfa2-4d37-974d-a89492cea6a0">
+
+
 Step 3 – Check Node.js and NPM Version
 
 After installing node.js verify and check the installed version
 
 node -v or npm -v
+
+<img width="724" alt="Screenshot 2023-06-01 at 22 25 11" src="https://github.com/Mamiololo01/Reverse-proxy-using-Nginx/assets/67044030/b852a073-d21b-467c-a6f1-303ea3a6ec3d">
 
 Step 4 – Create Demo Web Server (Optional)
 
