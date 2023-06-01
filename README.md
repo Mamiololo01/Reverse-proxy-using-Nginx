@@ -152,7 +152,13 @@ Before restarting the Nginx service, test the configuration files using the foll
 
 sudo nginx -t 
 
+<img width="747" alt="Screenshot 2023-06-01 at 22 33 57" src="https://github.com/Mamiololo01/Reverse-proxy-using-Nginx/assets/67044030/7e8995be-c973-4b22-b64b-016a495b8e49">
+
 If the configuration test is successful, restart Nginx to apply the changes:
 
 sudo systemctl restart nginx 
+
+
+<img width="770" alt="Screenshot 2023-06-01 at 22 34 19" src="https://github.com/Mamiololo01/Reverse-proxy-using-Nginx/assets/67044030/2160d205-ff5a-46ef-a6e0-e1eb3ffdd6a2">
+
 
