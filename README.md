@@ -87,7 +87,7 @@ You can also start the application with debugging enabled with the following com
 
 node --inspect server.js
 
-Debugger listening on ws://127.0.0.1:9229/938cf97a-a9e6-4672-922d-a22479ce4e29
+<img width="787" alt="Screenshot 2023-06-01 at 22 30 21" src="https://github.com/Mamiololo01/Reverse-proxy-using-Nginx/assets/67044030/d6d0fa57-9b0d-46be-afc7-b786c3d0df96">
 
 For help, see: https://nodejs.org/en/docs/inspector
 
