@@ -24,6 +24,12 @@ curl -sL https://deb.nodesource.com/setup_19.x | sudo -E bash –
 
 Use LTS Release – Instead of the current release, it’s a good idea to use a stable version. During the last update of this tutorial, Node.js 18 is the latest LTS release available.
 
+<img width="774" alt="Screenshot 2023-06-01 at 22 18 01" src="https://github.com/Mamiololo01/Reverse-proxy-using-Nginx/assets/67044030/f951def4-b628-4e14-adda-a4e06d0626af">
+
+
+<img width="847" alt="Screenshot 2023-06-01 at 22 24 17" src="https://github.com/Mamiololo01/Reverse-proxy-using-Nginx/assets/67044030/b40e02fa-581e-43e7-97e2-fc3c95a25abd">
+
+
 sudo apt install -y curl 
 
 curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash - 
